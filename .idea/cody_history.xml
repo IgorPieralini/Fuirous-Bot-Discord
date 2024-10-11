@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0NzIxMzQ=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="5e123da6-bda9-417e-afe3-e5e524e8c320" />
+              </chat>
+              <chat>
+                <internalId value="bdf67d5b-07a2-4363-aaf2-37b61c2e6e84" />
+              </chat>
+              <chat>
+                <internalId value="b1257372-e82a-4231-8110-5ff1eb56c106" />
+              </chat>
+              <chat>
+                <internalId value="2ec253a1-f5c2-44f2-b97c-dcb6bc3ec784" />
+              </chat>
+              <chat>
+                <internalId value="c844092e-e2f0-4829-9fc4-89ea3d4a832d" />
+              </chat>
+              <chat>
+                <internalId value="13683247-4277-437e-b72e-e5dc9ae36267" />
+              </chat>
+              <chat>
+                <internalId value="9c7f3d7f-ecdb-45eb-8fc5-c5c7166fea8f" />
+              </chat>
+              <chat>
+                <internalId value="35aae1a3-bc40-4aa5-a54e-a65f55b244d1" />
+              </chat>
+              <chat>
+                <internalId value="1ee1b863-6c40-4e0e-911b-0dc421d581ad" />
+              </chat>
+              <chat>
+                <internalId value="a4dd5d20-60bc-4d30-8c14-aa1f5d0ff39f" />
+              </chat>
+              <chat>
+                <internalId value="8b1e44ac-9dc8-4b47-8043-6e0a0bb7e69c" />
+              </chat>
+              <chat>
+                <internalId value="1be15a19-dfdf-46be-b0d8-687519bb81c1" />
+              </chat>
+              <chat>
+                <internalId value="94887162-de49-42fd-93cf-464bfbb67509" />
+              </chat>
+              <chat>
+                <internalId value="ecf9dd22-a599-47bb-a190-e0f9770c24a8" />
+              </chat>
+              <chat>
+                <internalId value="4e47f4e7-b4e3-408d-8a0f-d06b4e5f4142" />
+              </chat>
+              <chat>
+                <internalId value="1aba1a70-5062-43aa-b526-40d7b75a692d" />
+              </chat>
+              <chat>
+                <internalId value="01a12f1b-2407-4ed0-b40c-ffc45984703f" />
+              </chat>
+              <chat>
+                <internalId value="20fb517e-a4af-4355-9551-34a75e2adcff" />
+              </chat>
+              <chat>
+                <internalId value="a6350e3d-aeeb-4501-947b-726549ffa4b8" />
+              </chat>
+              <chat>
+                <internalId value="b053655a-8ec9-48bc-ae4e-1af4b53a9021" />
+              </chat>
+              <chat>
+                <internalId value="9500c3de-5ed9-4f14-9f2a-9e35600f43c7" />
+              </chat>
+              <chat>
+                <internalId value="deb185f3-3c3b-4c3d-9c8c-6ff724b2afe1" />
+              </chat>
+              <chat>
+                <internalId value="4f8f3700-22ef-4b38-ac0b-4f68dca1da7a" />
+              </chat>
+              <chat>
+                <internalId value="9430eaab-d6d0-4b2d-8af7-6f2c50f66dab" />
+              </chat>
+              <chat>
+                <internalId value="f97e69be-414c-44ee-9f4f-c4eff9984bb3" />
+              </chat>
+              <chat>
+                <internalId value="3ec5ca79-452c-45f0-908a-3c3163201141" />
+              </chat>
+              <chat>
+                <internalId value="9a2ed5b7-f51a-4028-ad68-3f0166614aea" />
+              </chat>
+              <chat>
+                <internalId value="ed66978b-c2f8-4433-ad15-7b2d4c728f0a" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="a" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Unfortunately, I don't have enough context to provide a meaningful answer based on the single character &quot;a&quot; you provided. Could you please rephrase your question or provide more details about what you'd like assistance with in relation to the codebase?" />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-07-18T22:38:08.0473298" />
+              </chat>
+              <chat>
+                <internalId value="5aa856af-af1f-446e-99d0-8a4915c26a1c" />
+              </chat>
+              <chat>
+                <internalId value="7eaca39e-f56c-4598-bd7c-9d6fc84216e1" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="a" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Unfortunately, I don't have enough context to provide a meaningful answer based solely on the question &quot;a&quot;. Could you please provide more details or clarify your question? I'd be happy to assist once I have a better understanding of what you're asking." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-07-19T01:12:00.9783807" />
+              </chat>
+              <chat>
+                <internalId value="7a2cdc5a-c843-4af8-8026-4aa87d7a5853" />
+              </chat>
+              <chat>
+                <internalId value="45b5d4e4-4acf-4d6e-bc3d-4b7f35de35cb" />
+              </chat>
+              <chat>
+                <internalId value="af18a086-f6a3-490d-b00b-4ce4a7fc64ef" />
+              </chat>
+              <chat>
+                <internalId value="bbad530a-25c3-40a4-8f39-b2035da05f8a" />
+              </chat>
+              <chat>
+                <internalId value="9b3130f7-9f3c-4d0d-8071-52906c9e6b1d" />
+              </chat>
+              <chat>
+                <internalId value="ad045b9e-25cc-4a82-b37a-2f7ada1b1f2d" />
+              </chat>
+              <chat>
+                <internalId value="8773b636-7631-4d47-b378-81847eb4b206" />
+              </chat>
+              <chat>
+                <internalId value="2608982d-4fe0-4da4-96a0-43a6d4787795" />
+              </chat>
+              <chat>
+                <internalId value="8ba33cbf-b889-49bc-af85-984d4d2db096" />
+              </chat>
+              <chat>
+                <internalId value="43e877f2-005c-4f48-bebb-8b99f2bc9e23" />
+              </chat>
+              <chat>
+                <internalId value="8f200ac9-51f4-44f4-886a-02e4489b254b" />
+              </chat>
+              <chat>
+                <internalId value="b1fffef4-c85b-4368-b3ff-8b1c2fd0c550" />
+              </chat>
+              <chat>
+                <internalId value="fb12a3ed-e66b-49af-8719-d78362f09f58" />
+              </chat>
+              <chat>
+                <internalId value="9829e639-699c-469e-82a3-5b976743ade7" />
+              </chat>
+              <chat>
+                <internalId value="3c4f76ce-df83-48a1-86d4-1a14219c1461" />
+              </chat>
+              <chat>
+                <internalId value="9f8c1373-e969-4d87-9bc5-ea4bcdfbfefa" />
+              </chat>
+              <chat>
+                <internalId value="8f665e39-c5c6-4708-88ce-823f4c6bf3b7" />
+              </chat>
+              <chat>
+                <internalId value="b49ec698-f5ea-4b14-b141-5194c84745a4" />
+              </chat>
+              <chat>
+                <internalId value="5c4bb49f-9280-49a0-8be5-b98d33a909a5" />
+              </chat>
+              <chat>
+                <internalId value="4259482f-10eb-4bab-abec-f86cf4eb94ba" />
+              </chat>
+              <chat>
+                <internalId value="81813a5c-5947-4c75-bb8f-7efdbff18055" />
+              </chat>
+              <chat>
+                <internalId value="3795562a-7144-4092-a66b-d6c0ed6c7c01" />
+              </chat>
+              <chat>
+                <internalId value="46dba3c5-aa33-4cc3-86a1-387a94471f56" />
+              </chat>
+              <chat>
+                <internalId value="55e7d10f-59af-40b0-a738-6a632ba458db" />
+              </chat>
+              <chat>
+                <internalId value="2c42f959-1d96-4600-871b-b4f5f3d57d39" />
+              </chat>
+              <chat>
+                <internalId value="8aeb67bd-6530-4a50-8a51-47ccbf84951d" />
+              </chat>
+              <chat>
+                <internalId value="8cf21eba-f3f5-41df-944b-bf569715fc6b" />
+              </chat>
+              <chat>
+                <internalId value="7a0ea9ba-7edf-4f67-b0db-726a137fec50" />
+              </chat>
+              <chat>
+                <internalId value="a570c905-4dd4-4bde-8198-8e8e75d740d6" />
+              </chat>
+              <chat>
+                <internalId value="fa6ee148-82dd-45bd-a976-2839b5fa7348" />
+              </chat>
+              <chat>
+                <internalId value="3b4f990a-17da-4987-ab5f-f48b3bbd01b9" />
+              </chat>
+              <chat>
+                <internalId value="764605c0-d3a3-4437-a7b1-f697622b0e7a" />
+              </chat>
+              <chat>
+                <internalId value="5a65b707-9256-46eb-996f-5da601fdc9a5" />
+              </chat>
+              <chat>
+                <internalId value="b3fdd3bc-ee02-4e27-9894-147c096f9a3e" />
+              </chat>
+              <chat>
+                <internalId value="ca3c8814-d69b-42c6-95de-d5258c8df7fe" />
+              </chat>
+              <chat>
+                <internalId value="351819d4-669b-4610-966d-ab6ed0ea47d6" />
+              </chat>
+              <chat>
+                <internalId value="45036326-af1c-4905-b08e-3c6348562263" />
+              </chat>
+              <chat>
+                <internalId value="f9b7c0f8-9025-4301-8440-07e5b1939341" />
+              </chat>
+              <chat>
+                <internalId value="d6317d54-be51-4797-925e-fcf693904001" />
+              </chat>
+              <chat>
+                <internalId value="a2535ef9-8ddc-4375-ad03-244d4385147f" />
+              </chat>
+              <chat>
+                <internalId value="894631d4-2337-4163-8368-62fa81c36bca" />
+              </chat>
+              <chat>
+                <internalId value="fb1c58c6-7000-41d4-94a9-00569551c32c" />
+              </chat>
+              <chat>
+                <internalId value="b6e31b62-09ed-4799-9720-11c5fee3a716" />
+              </chat>
+              <chat>
+                <internalId value="818ab7c5-98d1-4312-a882-e34b67c76a47" />
+              </chat>
+              <chat>
+                <internalId value="9ccd9c36-8d49-40ef-a6b9-822df470a285" />
+              </chat>
+              <chat>
+                <internalId value="e1ebb33c-588e-4e96-8370-06a22acd6aff" />
+              </chat>
+              <chat>
+                <internalId value="f3d9a48b-0184-4d05-a831-a9a419d6ff4b" />
+              </chat>
+              <chat>
+                <internalId value="b1e5cd94-afb5-4a93-b375-91b5b244ec2a" />
+              </chat>
+              <chat>
+                <internalId value="522cc75d-1476-41cd-a123-77be5190aafc" />
+              </chat>
+              <chat>
+                <internalId value="0c911150-99d0-4f96-8116-98849a7da7ef" />
+              </chat>
+              <chat>
+                <internalId value="cbbafc65-6905-4f24-a2b4-143e7bc16b9f" />
+              </chat>
+              <chat>
+                <internalId value="31980747-0317-4b58-bd72-f090d74b4a07" />
+              </chat>
+              <chat>
+                <internalId value="c40a2617-87a1-471e-81ed-0687d7f9188d" />
+              </chat>
+              <chat>
+                <internalId value="72e6f3ce-cdf1-4645-811a-63815061a588" />
+              </chat>
+              <chat>
+                <internalId value="c1d4c5fd-8431-4140-80e5-6be9df9397fe" />
+              </chat>
+              <chat>
+                <internalId value="97e61f59-db97-4fb9-8c8c-0f3c8ad64497" />
+              </chat>
+              <chat>
+                <internalId value="365748d8-e1f1-4d72-8e43-611b296133d4" />
+              </chat>
+              <chat>
+                <internalId value="87432bc1-7e82-4fac-a65f-ec65c098cf4d" />
+              </chat>
+              <chat>
+                <internalId value="94c7b29a-684e-4bd4-889e-a7070bc8a69f" />
+              </chat>
+              <chat>
+                <internalId value="c0495de1-9b2a-4ae8-8c0d-daf9095647ce" />
+              </chat>
+              <chat>
+                <internalId value="fb2d4e78-8dd2-4f5a-8c7d-1eda45c06715" />
+              </chat>
+              <chat>
+                <internalId value="cec6fff4-0b54-4c61-af46-f640785c603f" />
+              </chat>
+              <chat>
+                <internalId value="0d8e90d8-9078-468f-abd5-0dd717edc9fe" />
+              </chat>
+              <chat>
+                <internalId value="45da785d-d6a6-4463-b11e-d48bd239d1fd" />
+              </chat>
+              <chat>
+                <internalId value="3c52f2b7-c07d-4db9-a169-6c44cdbcb523" />
+              </chat>
+              <chat>
+                <internalId value="49b1fd70-67ff-4237-b51e-f3497c80c579" />
+              </chat>
+              <chat>
+                <internalId value="08325a8d-9faf-4978-a498-238bb29d4d27" />
+              </chat>
+              <chat>
+                <internalId value="1882c2a9-abcb-441b-ae2d-d1d4e654d654" />
+              </chat>
+              <chat>
+                <internalId value="459689c5-2849-4e38-9bec-76ddf4becfd0" />
+              </chat>
+              <chat>
+                <internalId value="2f0fb4a8-cf69-462a-bc6c-09ba4d2c43da" />
+              </chat>
+              <chat>
+                <internalId value="b0ecf7aa-d237-4aa4-ac2c-175fd6095fbd" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="a" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="&lt;html&gt;&lt;b&gt;&amp;#9888; Error performing this action&lt;/b&gt;&lt;br&gt;&lt;br&gt;Please retry sending your message. If you tried to run a command, try it again.&lt;br&gt;If the issue persists, please &lt;a href=&quot;https://github.com/sourcegraph/jetbrains/issues/new?template=bug_report.yml&amp;labels=bug&amp;projects=sourcegraph/381&amp;title=bug%3A+socket+hang+up&amp;about=IntelliJ+IDEA+2024.1.4+%28Community+Edition%29%0ABuild+%23IC-241.18034.62%2C+built+on+June+20%2C+2024%0ARuntime+version%3A+17.0.11%2B1-b1207.24+amd64%0AVM%3A+OpenJDK+64-Bit+Server+VM+by+JetBrains+s.r.o.%0AWindows+11.0%0AGC%3A+G1+Young+Generation%2C+G1+Old+Generation%0AMemory%3A+2048M%0ACores%3A+8%0ARegistry%3A%0A++ide.experimental.ui%3Dtrue%0ANon-Bundled+Plugins%3A%0A++com.jetbrains.gerryPurpleTheme+%282024.1.0601%29%0A++io.github.pandier.intellijdiscordrp+%281.4.1%29%0A++monokai-pro+%281.10%29%0A++com.demonwav.minecraft-dev+%282024.1-1.8.0%29%0A++com.sourcegraph.jetbrains+%286.0.14%29%0AKotlin%3A+241.18034.62-IJ%0A&amp;logs=Stacktrace%3A+%60%60%60socket+hang+up%60%60%60&quot;&gt;create a support ticket&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;sub&gt;Error: socket hang up&lt;/sub&gt;&lt;/html&gt;" />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-07-29T13:46:38.8559054" />
+              </chat>
+              <chat>
+                <internalId value="a820f2ab-4ce0-4990-be88-f7322584f715" />
+              </chat>
+              <chat>
+                <internalId value="9d88bffc-348f-4993-a6f2-1927b4b6d444" />
+              </chat>
+              <chat>
+                <internalId value="249b3713-16bf-4cf7-9299-9b2a4f40d78d" />
+              </chat>
+              <chat>
+                <internalId value="b7f22ce2-1b0b-4870-b529-e5533fd88267" />
+              </chat>
+              <chat>
+                <internalId value="13c22181-d1dc-439e-b76e-9ea2816d6b59" />
+              </chat>
+              <chat>
+                <internalId value="91f747a3-a198-4d54-bdce-4340668c1fbf" />
+              </chat>
+              <chat>
+                <internalId value="c46432b0-8a19-4a6b-b273-525cf10d9ea3" />
+              </chat>
+              <chat>
+                <internalId value="ddd64ce0-6f4c-4a91-9d88-49045401dfe3" />
+              </chat>
+              <chat>
+                <internalId value="0dff4826-5512-4fef-a65f-04865946f890" />
+              </chat>
+              <chat>
+                <internalId value="7f6ceee3-a6a1-4d03-83ed-2d9651147794" />
+              </chat>
+              <chat>
+                <internalId value="a7eecaae-04af-4f98-a9a1-1ed84d2cdaca" />
+              </chat>
+              <chat>
+                <internalId value="ebfac1c3-ea3b-430d-8e64-e5dc95203728" />
+              </chat>
+              <chat>
+                <internalId value="1b670409-cec9-4f58-8c9a-4d1ec7b73243" />
+              </chat>
+              <chat>
+                <internalId value="8052105f-87dc-41b7-9258-ec44a712de47" />
+              </chat>
+              <chat>
+                <internalId value="ae2533b9-09a4-4404-aa50-a65cdcc6698d" />
+              </chat>
+              <chat>
+                <internalId value="52d03d58-65e7-437b-b50c-e023c61dda49" />
+              </chat>
+              <chat>
+                <internalId value="0a02e01b-6082-4b97-bc7e-dd7d3a888019" />
+              </chat>
+              <chat>
+                <internalId value="c05e382a-984f-4552-a167-6d683a8c6ad5" />
+              </chat>
+              <chat>
+                <internalId value="9c1eec40-c28e-4b65-adc0-624c855f60e6" />
+              </chat>
+              <chat>
+                <internalId value="2c81b776-d245-4df9-a629-13027a8ee0a8" />
+              </chat>
+              <chat>
+                <internalId value="b2a54ffa-b92f-497e-97ce-1be0ab7f2747" />
+              </chat>
+              <chat>
+                <internalId value="777ce63b-1598-4bab-b7fa-e4213c843282" />
+              </chat>
+              <chat>
+                <internalId value="46de05d8-af6b-4786-a44f-bf3e8e9a81ac" />
+              </chat>
+              <chat>
+                <internalId value="844b6b3b-dc50-4ca8-91ee-cb4cb89bd96b" />
+              </chat>
+              <chat>
+                <internalId value="435e1580-2239-41a4-9c89-0b048e7247e1" />
+              </chat>
+              <chat>
+                <internalId value="66822039-6cbe-4a42-b32c-4021e19b40cd" />
+              </chat>
+              <chat>
+                <internalId value="bdefb313-4fca-45d2-a02d-6adad193b68b" />
+              </chat>
+              <chat>
+                <internalId value="b1edf1a7-76be-458b-90f8-aef3d235643a" />
+              </chat>
+              <chat>
+                <internalId value="5cf20081-44d3-4b3a-a6b6-8b8b718eb1c8" />
+              </chat>
+              <chat>
+                <internalId value="2c3da5df-36c4-4a9c-abfa-8e2d7d336de9" />
+              </chat>
+              <chat>
+                <internalId value="230dd205-6147-4d7a-82a7-a6de00fa826e" />
+              </chat>
+              <chat>
+                <internalId value="a74484c6-f8f0-42af-94f8-31a75dd98214" />
+              </chat>
+              <chat>
+                <internalId value="ed67bbf5-35a7-4646-900c-4ecd0d58a7dd" />
+              </chat>
+              <chat>
+                <internalId value="fda0c8d3-5369-419c-9877-6b70abaa3d4f" />
+              </chat>
+              <chat>
+                <internalId value="796e6c92-4d54-4382-8fc1-010b50cf4abe" />
+              </chat>
+              <chat>
+                <internalId value="c7657a84-f4e2-4176-902c-4d9af5094f55" />
+              </chat>
+              <chat>
+                <internalId value="5a098340-1941-4dd7-8fdf-fb471eea45ac" />
+              </chat>
+              <chat>
+                <internalId value="5a508561-4bf6-4fe4-bc34-bb29ed456e04" />
+              </chat>
+              <chat>
+                <internalId value="f0f23242-5489-4015-b8a0-1a17d551ccbf" />
+              </chat>
+              <chat>
+                <internalId value="aaf5f4ce-d61a-41a0-aba9-36f9f09bfdf5" />
+              </chat>
+              <chat>
+                <internalId value="7db3cf2d-8947-4807-87fa-007871f884e9" />
+              </chat>
+              <chat>
+                <internalId value="0a5543b7-b5cb-48bf-a671-74a3dcc5ff56" />
+              </chat>
+              <chat>
+                <internalId value="b31d7c7f-e8dc-4bbe-8eb8-c2f03c167fb0" />
+              </chat>
+              <chat>
+                <internalId value="1a301eb4-00c0-4b61-927f-bfeaaa146f05" />
+              </chat>
+              <chat>
+                <internalId value="e7939c9f-e304-45ae-a8be-f52bb313e6fd" />
+              </chat>
+              <chat>
+                <internalId value="ed2d258c-6aff-4430-a14a-6dc5cd57e84d" />
+              </chat>
+              <chat>
+                <internalId value="19f6619f-9ab3-46c8-8b36-d44d5a39a86d" />
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="a" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-08-11T10:24:44.5428643" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>

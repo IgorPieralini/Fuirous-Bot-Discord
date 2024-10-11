@@ -1,0 +1,35 @@
+Bot:
+  Token: ''
+  Guilds:
+    Global: ''
+    Factions: ''
+  Activity:
+    Message: 'Atualmente estamos com %member_amount% membros!'
+
+Config:
+  JoinRole: ''
+  Factions:
+    Channel: ''
+    Category: ''
+    Message: '🏷️ A Facção **%tag%** **%name%** confirmou presença em nosso ⚔️ **FACTIONS**'
+  Status:
+    Channel: ''
+    Active: 'Online'
+    Style:
+      Online: '🟢 Online'
+      Maintenance: '🟠 Manutenção'
+      Offline: '🔴 Desligado'
+
+Ticket:
+  Logs: ''
+  Channel: ''
+  Category: ''
+  StaffRole: ''
+  Categories:
+    Duvidas/Problemas: ''
+    ConfirmarFacção: ''
+    Parcerias: ''
+    Revisões: ''
+    RelatarBugs: ''
+    Reportar: ''
+    Outros: ''

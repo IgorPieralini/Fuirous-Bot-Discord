@@ -1,0 +1,35 @@
+Bot:
+  Token: 'MTI3Mzc1NTUyNjg5NDcxODk3Ng.GoYuIF.NUtcPxR1khAhOuLBR9Hh_u6GciuLvo8iPZRMio'
+  Guilds:
+    Global: '1256007732528676885'
+    Factions: '1277682664131919882'
+  Activity:
+    Message: 'Atualmente estamos com %member_amount% membros!'
+
+Config:
+  JoinRole: ''
+  Factions:
+    Channel: ''
+    Category: ''
+    Message: '🏷️ A Facção **%tag%** **%name%** confirmou presença em nosso ⚔️ **FACTIONS**'
+  Status:
+    Channel: ''
+    Active: 'Online'
+    Style:
+      Online: '🟢 Online'
+      Maintenance: '🟠 Manutenção'
+      Offline: '🔴 Desligado'
+
+Ticket:
+  Logs: ''
+  Channel: ''
+  Category: ''
+  StaffRole: ''
+  Categories:
+    Duvidas/Problemas: ''
+    ConfirmarFacção: ''
+    Parcerias: ''
+    Revisões: ''
+    RelatarBugs: ''
+    Reportar: ''
+    Outros: ''
